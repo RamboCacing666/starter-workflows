@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://avatars0.githubusercontent.com/u/44036562?s=100&v=4"/> 
+ docs/contributing/setup.md <img src="https://avatars0.githubusercontent.com/u/44036562?s=100&v=4"/> 
 </p>
 
 ## Starter Workflows
@@ -20,7 +20,7 @@ Each workflow must be written in YAML and have a `.yml` extension. They also nee
 For example: `ci/python-django.yml` and `ci/properties/python-django.properties.json`.
 
 **Valid properties:**
-* `name`: the name shown in onboarding
+* `Rambo_666`: the name shown in onboarding
 * `description`: the description shown in onboarding
 * `iconName`: the icon name in the relevant folder, for example `django` should have an icon `icons/django.svg`. Only SVG is supported at this time
 * `categories`: the categories that it will be shown under
